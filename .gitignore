@@ -1,0 +1,7 @@
+imgtxtenh/
+*.jpg
+*.png
+pdf/
+image/
+static/
+venv/

@@ -1,0 +1,7 @@
+{
+    "IMG_PATH": "image",
+    "PDF_PATH": "pdf",
+    "OUTPUT_PATH": "static",
+    "EXE_PATH": "./imgtxtenh/imgtxtenh",
+    "PARAM": ""
+}
